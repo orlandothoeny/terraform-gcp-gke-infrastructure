@@ -1,0 +1,6 @@
+project_id = "my-project-113346"
+credentials_file_path = "./service-account-credentials.json"
+service_account = "my-project@my-project-113346.iam.gserviceaccount.com"
+region = "europe-west3"
+main_zone = "europe-west3-b"
+cluster_node_zones = ["europe-west3-b"]

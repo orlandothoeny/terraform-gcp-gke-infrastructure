@@ -1,0 +1,8 @@
+.terraform
+.terraform.lock.hcl
+.terraform.tfstate.lock.info
+infrastructure/service-account-credentials.json
+.idea
+*.tfstate
+*.tfstate.backup
+*.tfvars
